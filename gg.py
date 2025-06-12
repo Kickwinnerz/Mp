@@ -1795,8 +1795,6 @@ def ____old____(uid,pas,tl):
 		loop+=1
 	except Exception as e:pass
 	def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.DEVI-XD-cov', 'r').read()
-	clear()
 	print(logo)
 	r1=requests.get("https://github.com/devixrahina/DEVI-XD/blob/main/Approval.txt").text
 	if key1 in r1:
